@@ -21,7 +21,9 @@ Zr or xr [m] – Vertical displacement of road
 <p><img src="xcos_model.PNG"></p>
 <p><img src="set_context.PNG"></p>
 <p><strong>OUTPUT WAVEFORMS</strong></p>  
+<p>Sprung mass displaccement</p>  
 <p><img src="Sprung mass X.png"></p>
+<p>un Sprung mass displaccement</p>  
 <p><img src="Un_sprung mass Xu.png"></p>
   
   
